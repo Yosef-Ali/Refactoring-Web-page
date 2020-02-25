@@ -1,9 +1,9 @@
 # Refactoring-Web-page
 best practice for mobile first approach 
 
-![Mobile](/images/mobile.png)
-![Tablet](/images/tablet.png)
-![Desktop](/images/desktop.png)
+![Mobile](/img/mobile.png)
+![Tablet](/img/tablet.png)
+![Desktop](/img/desktop.png)
 
 
 
